@@ -1,0 +1,30 @@
+h1 {
+    color: aquamarine;
+}
+
+.ma-classe {
+    color: aqua;
+    background-color: beige;
+}
+
+body {
+    text-align: center;
+}
+
+main img {
+    width: 900px;
+    border: 20px solid black
+}
+
+button {
+    background-color: bisque;
+    border: none;
+    width: 200px;
+    height: 44px;
+    transition: 0, 2S;
+}
+
+button:hover {
+    background-color: black;
+    color: brown;
+}

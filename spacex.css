@@ -1,0 +1,75 @@
+body {
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Star6_24_102123_DSC_0374_013728528d.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#id2 {
+    color: antiquewhite;
+}
+
+#id3 {
+    color: antiquewhite;
+}
+
+#id4 {
+    color: antiquewhite;
+}
+
+button {
+    background-color: antiquewhite;
+    width: "600px";
+    height: 44px;
+    transition: 0.5s;
+    border-radius: 2px;
+}
+
+button :hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+section {
+    width: 350px;
+    padding-left: 0px;
+    margin-top: 400px;
+}
+
+#ID5 {
+    color: antiquewhite;
+}
+
+#ID6 {
+    color: antiquewhite;
+}
+
+
+button {
+    background-color: bisque;
+    border: none;
+    width: 200px;
+    height: 44px;
+    transition: 0, 2S;
+}
+
+button:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#footer {
+    color: antiquewhite;
+    width: 350px;
+    margin-bottom: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
